@@ -1,0 +1,105 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://itv.aptv.app/china-iptv/zgyd.m3u
+央视频道,#genre#
+CCTV-1 综合,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
+CCTV-2 财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8
+CCTV-3 综艺,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8
+CCTV-4 中文国际,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8
+CCTV-5 体育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8
+CCTV-6 电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8
+CCTV-7 国防军事,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001236/index.m3u8
+CCTV-8 电视剧,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001189/index.m3u8
+CCTV-9 纪录,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001237/index.m3u8
+CCTV-10 科教,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001238/index.m3u8
+CCTV-11 戏曲,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001309/index.m3u8
+CCTV-12 社会与法,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8
+CCTV-13 新闻,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001328/index.m3u8
+CCTV-14 少儿,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001240/index.m3u8
+CCTV-15 音乐,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001338/index.m3u8
+CCTV-16 奥林匹克,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8
+CCTV-16 奥林匹克 4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
+CCTV-17 农业农村,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8
+CGTN英语,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.m3u8
+卫视频道,#genre#
+东方卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8
+江苏卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001033/index.m3u8
+浙江卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001023/index.m3u8
+北京卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8
+北京卫视4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001500/index.m3u8
+湖南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001026/index.m3u8
+安徽卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001037/index.m3u8
+四川卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001130/index.m3u8
+天津卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001036/index.m3u8
+山东卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001028/index.m3u8
+广东卫视4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001550/index.m3u8
+广西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001224/index.m3u8
+江西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001034/index.m3u8
+河北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8
+河南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001222/index.m3u8
+海南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001183/index.m3u8
+深圳卫视4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001560/index.m3u8
+湖北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001027/index.m3u8
+山西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001070/index.m3u8
+东南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001201/index.m3u8
+贵州卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001184/index.m3u8
+辽宁卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001035/index.m3u8
+重庆卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8
+黑龙江卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001031/index.m3u8
+内蒙古卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001068/index.m3u8
+宁夏卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001074/index.m3u8
+陕西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001067/index.m3u8
+甘肃卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001298/index.m3u8
+吉林卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001225/index.m3u8
+云南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001223/index.m3u8
+三沙卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8
+青海卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001450/index.m3u8
+新疆卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001065/index.m3u8
+西藏卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001072/index.m3u8
+兵团卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8
+延边卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001470/index.m3u8
+上海频道,#genre#
+上海新闻,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8
+东方卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8
+五星体育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
+上海都市,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8
+东方影视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8
+第一财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
+东方财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
+法治天地,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
+上海教育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8
+其他,#genre#
+CETV-1,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8
+CETV-2,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001226/index.m3u8
+CETV-4,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8
+金色学堂,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8
+生活时尚,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8
+乐游频道,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8
+都市剧场,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8
+欢笑剧场,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
+卡酷少儿,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001245/index.m3u8
+金鹰纪实,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8
+卫视频道,#genre#
+金鹰卡通,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001460/index.m3u8
+其他,#genre#
+茶友频道,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001234/index.m3u8
+快乐垂钓,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8
+嘉佳卡通,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001227/index.m3u8
+动漫秀场,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8
+哈哈炫动,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001232/index.m3u8
+游戏风云,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8
+家庭理财,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001278/index.m3u8
+财富天下,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001219/index.m3u8
+赛事直播,#genre#
+Bestv赛事1,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001151/index.m3u8
+Bestv赛事2,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001359/index.m3u8
+Bestv赛事3,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001388/index.m3u8
+Bestv赛事4,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001149/index.m3u8
+Bestv赛事5,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001153/index.m3u8
+Bestv赛事6,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001154/index.m3u8
+购物频道,#genre#
+东方购物1,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001040/index.m3u8
+东方购物2,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001039/index.m3u8
+央广购物,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8
+好享购物,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001132/index.m3u8
